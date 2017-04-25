@@ -13,8 +13,8 @@
 * 상속
 
 ## Resources
-* [자바스크립트 완벽 가이드](http://www.yes24.com/24/Goods/8275120?Acode=101), 인사이트
-* [자바스크립트 객체지향 프로그래밍](http://www.yes24.com/24/Goods/7276246?Acode=101), 위키북스
+* 검색
+* http://ejohn.org/apps/learn/
 
 ## Checklist
 * 프로토타입 기반의 객체지향 프로그래밍은 무엇일까요?

@@ -2,7 +2,7 @@
 
 
 ## Introduction
-* git은 2016년 현재 개발 생태계에서 가장 각광받고 있는 버전 관리 시스템입니다. 이번 퀘스트를 통해 git의 기초적인 사용법을 알아볼 예정입니다.
+* git은 개발 생태계에서 가장 각광받고 있는 버전 관리 시스템입니다. 이번 퀘스트를 통해 git의 기초적인 사용법을 알아볼 예정입니다.
 
 ## Topics
 * git
@@ -16,14 +16,17 @@
 * GitHub
 
 ## Resources
-* [git, 분산 버전 관리 시스템](http://www.yes24.com/24/goods/3676100?scode=032&OzSrank=1), 인사이트
-* [GitHub 사용 설명서](http://www.yes24.com/24/Goods/17638082?Acode=101), 교학사
+* https://backlogtool.com/git-guide/kr/intro/intro1_1.html
 * https://try.github.io
+* http://learnbranch.urigit.com/
 * http://pcottle.github.io/learnGitBranching
 
 ## Checklist
 * 버전 관리 시스템은 왜 필요한가요?
 * git 외의 버전관리 시스템에는 무엇이 있나요? git은 그 시스템과 어떤 점이 다르며, 어떤 장점을 가지고 있나요?
+* commit은 어떤 개념인가요?
+* branch는 어떤 개념인가요?
+* git에서 local과 remote repository는 어떤 개념적 차이를 가지나요?
 * git의 `clone`/`add`/`commit`/`push`/`pull`/`branch`/`stash` 명령은 무엇이며 어떨 때 이용하나요? 그리고 어떻게 사용하나요?
 
 ## Quest

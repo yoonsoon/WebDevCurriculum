@@ -13,10 +13,13 @@
   * `function`
 
 ## Resources
-* [자바스크립트 완벽 가이드](http://www.yes24.com/24/Goods/8275120?Acode=101), 인사이트
-* [자바스크립트 객체지향 프로그래밍](http://www.yes24.com/24/Goods/7276246?Acode=101), 위키북스
+* 검색
+* https://www.codecademy.com/learn/javascript
+* http://ejohn.org/apps/learn/
 
 ## Checklist
+* Javascript는 어떤 이유에서 생겨났을까요?
+* Javascript는 웹개발을 할 때, 어떤 상황에 필요할까요?
 * 웹 브라우저의 자바스크립트 콘솔은 어떻게 사용할까요?
   * 웹 브라우저(Chrome)에서 자바스크립트 콘솔을 띄우는 단축키는 무엇인가요?
 * `var`를 이용하여 변수를 선언하는 것은 그렇게 하지 않는 것과 어떤 면에서 다를까요?

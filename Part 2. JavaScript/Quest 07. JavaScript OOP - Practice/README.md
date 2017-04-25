@@ -5,8 +5,8 @@
 * 이번 퀘스트에서는 실제 프로젝트를 통해 자바스크립트의 객체지향 프로그래밍에 대해 알아볼 예정입니다.
 
 ## Resources
-* [자바스크립트 완벽 가이드](http://www.yes24.com/24/Goods/8275120?Acode=101), 인사이트
-* [자바스크립트 객체지향 프로그래밍](http://www.yes24.com/24/Goods/7276246?Acode=101), 위키북스
+* 검색
+* http://ejohn.org/apps/learn/
 
 ## Checklist
 * 더 좋은 코드를 만들려면 어떻게 해야 할까요?

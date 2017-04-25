@@ -12,12 +12,14 @@
 * Closure
 
 ## Resources
-* [자바스크립트 완벽 가이드](http://www.yes24.com/24/Goods/8275120?Acode=101), 인사이트
-* [자바스크립트 객체지향 프로그래밍](http://www.yes24.com/24/Goods/7276246?Acode=101), 위키북스
+* 검색
+* http://ejohn.org/apps/learn/
 
 ## Checklist
 * 자바스크립트를 통해 DOM 객체에 CSS Class를 주거나 없애려면 어떻게 해야 하나요?
   * IE9나 그 이전의 옛날 브라우저들에서는 어떻게 해야 하나요?
+* Scope는 무엇인가요?
+* Javascript의 scope정책이 타 언어의 scope정책과 어떻게 다른가요?
 * 자바스크립트의 Closure는 무엇이며, 어떤 식으로 활용할 수 있나요?
 
 ## Quest

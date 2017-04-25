@@ -20,11 +20,7 @@
 * 브라우저별 Developer tools
 
 ## Resources
-* [MDN - CSS](https://developer.mozilla.org/ko/docs/Web/CSS)
-* [모던 웹 디자인을 위한 HTML5+CSS3 입문](http://www.yes24.com/24/Goods/15683538?Acode=101), 한빛미디어
-* [웹 디자인 2.0 고급 CSS](http://www.yes24.com/24/Goods/2808075?Acode=101), 에이콘출판사
-* [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-* [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* 검색
 
 ## Checklist
 * CSS를 HTML에 적용하는 세 가지 방법의 장단점은 무엇인가요?
