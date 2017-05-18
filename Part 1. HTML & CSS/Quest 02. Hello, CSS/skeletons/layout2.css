@@ -11,14 +11,22 @@ body {
 .main {
 	background-color: skyblue;
 	/* TODO: 이 곳을 채우세요! */
+	display: inline-block;
+	vertical-align: top;
 }
 
 .left {
 	background-color: pink;
 	/* TODO: 이 곳을 채우세요! */
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
 }
 
 .right {
 	background-color: greenyellow;
 	/* TODO: 이 곳을 채우세요! */
+	position: absolute;
+	right: 300px;
+	width: 300px;
 }
